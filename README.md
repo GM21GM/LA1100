@@ -2,7 +2,7 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Giuliano Martullo
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,7 +14,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann diese Zahl erraten, zur Hilfe wird einem nach dem Versuch gesagt, ob die Zahl grösser oder kleiner ist.
 
 ### 1.2 User Stories
 
