@@ -49,9 +49,9 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 1.9.22|  Martullo | Code schreiben der eine zufallgenerierte Zahl von 1-100 generiert             |   2 *  45 min |
-| 2.A  | 1.9.22|  Martullo | Code schreiben welcher es ermöglich eine Zahl von 1-100 einzugeben            |        45 min |
-| 3.A  | 1.9.22|  Martullo | Code schreiben der nach dem Raten, verrät ob die Zahl richtig erraten wurde   |    2 *    45 min |
+| 1.A  | 1.9.22|  Martullo | Code schreiben der eine zufallgenerierte Zahl von 1-100 generiert             |  2 *  45 min |
+| 2.A  | 1.9.22|  Martullo | Code schreiben welcher es ermöglich eine Zahl von 1-100 einzugeben            |       45 min |
+| 3.A  | 1.9.22|  Martullo | Code schreiben der nach dem Raten, verrät ob die Zahl richtig erraten wurde   | 2 *   45 min |
 | 3.B  | 8.9.22|  Martullo | Code schreiben der nach falschem Raten ausgibt dass es nicht richtig war      |        45 min|
 | 4.A  | 8.9.22|  Martullo | Code schreiben der nach falschem Raten ausgibt ob die Zahl kleiner ist        |        45 min|
 | 4.B  | 8.9.22| Martullo| Code schreiben der nach falschem Raten ausgibt ob die Zahl grösser ist          |        45 min|
