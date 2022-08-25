@@ -58,7 +58,7 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 |5.A   | 8.9.22| Martullo  | Code schreiben, der nach richtigem erraten die Anzahl Versuche angibt          |        45 min|
 |6.A   | 15.9.22| Martullo | Code schreiben, der es nur ermöglicht Ziffern von 1-100 einzugeben             |        45 min|
 |6.B   | 15.9.22| Martullo | Code schreiben, der eine Fehlermeldung anzeigt bei falschen Eingaben           |        45 min|
-Total: 11 Lektionen
+|Total: |11 Lektionen
 
 
 
