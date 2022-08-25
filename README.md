@@ -20,10 +20,12 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| 1    |      Muss       | F     | Als Spieler möchte ich, dass eine Zufällige Zahl vom Computer generiert wird, damit ich diese daraufhin erraten kann          |
+| 2    |      Muss       |  F    | Spieler möchte ich, dass eine Zahl eingegeben werden kann damit damit ich das Spiel spielen kann                              |
+| 3    |      Muss       |   F   |Als Spieler möchte ich nach meinem Versuch einen Hinweis erhalten ob ich richtig lag, damit ich weiss, dass ich gewonnen habe  |
+| 4     |     Muss        |      | Als Spieler möchte ich, nach einem Fehlversuch einen Hinweis erhalten ob die Zahl kleiner oder grösser ist, damit das Spiel schneller geht
+|5     |      Muss       |   F   | Als Spieler möchte ich, wenn ich die Zahl erraten habe angezeigt bekommen wie viele Versuche ich gebraucht habe, damit ich meine Versuche vergleichen kann
+|6     |      Muss       |   F   |Als Spieler möchte ich eine Fehlermeldung bekommen falls meine Zahl nicht den Vorgaben entspricht, damit das Spiel funktioniert|
 
 ### 1.3 Testfälle
 
@@ -43,9 +45,10 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
+| 1.A  | 1.9.22|  Martullo | Code schreiben der eine zufallgenerierte Zahl von 1-100 generiert             |        45 min |
+| 2.A  | 1.9.22|  Martullo | Code schreiben welcher es ermöglich eine Zahl von 1-100 einzugeben            |        45 min |
+| 3.A  | 1.9.22|  Martullo | Code schreiben der nach dem Raten, verrät ob die Zahl richtig erraten wurde   |        45 min |
+| 3.B  | 
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
