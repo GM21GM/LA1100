@@ -23,7 +23,7 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 | 1    |      Muss       | F     | Als Spieler möchte ich, dass eine Zufällige Zahl vom Computer generiert wird, damit ich diese daraufhin erraten kann          |
 | 2    |      Muss       |  F    | Spieler möchte ich, dass eine Zahl eingegeben werden kann damit damit ich das Spiel spielen kann                              |
 | 3    |      Muss       |   F   |Als Spieler möchte ich nach meinem Versuch einen Hinweis erhalten ob ich richtig lag, damit ich weiss, dass ich gewonnen habe  |
-| 4     |     Muss        |      | Als Spieler möchte ich, nach einem Fehlversuch einen Hinweis erhalten ob die Zahl kleiner oder grösser ist, damit das Spiel schneller geht
+| 4     |     Muss        | F     | Als Spieler möchte ich, nach einem Fehlversuch einen Hinweis erhalten ob die Zahl kleiner oder grösser ist, damit das Spiel schneller geht
 |5     |      Muss       |   F   | Als Spieler möchte ich, wenn ich die Zahl erraten habe angezeigt bekommen wie viele Versuche ich gebraucht habe, damit ich meine Versuche vergleichen kann
 |6     |      Muss       |   F   |Als Spieler möchte ich eine Fehlermeldung bekommen falls meine Zahl nicht den Vorgaben entspricht, damit das Spiel funktioniert|
 
