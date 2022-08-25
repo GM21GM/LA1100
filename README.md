@@ -36,7 +36,8 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![Hauptprogramm 1](https://user-images.githubusercontent.com/111045891/186598653-397bcc48-495a-44a3-8346-3bbf7018a558.png)
+
 
 ## 2 Planen
 
