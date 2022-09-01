@@ -70,8 +70,10 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   1.9.22    | Martullo          |  90 Min             | 30 Min                  |
-| ...  |       |           |               |                   |
+| 1.A  |   1.9.22    | Martullo          |  90 Min             | 60 Min                  |
+| 2.A  |     1.9.22  |   martullo        |     45 Min          |    40 Min               |
+| 3.A| 1.9.22| Martullo| 90 Min | 45 Min|
+|4.A| 1.9.22| Martullo| 45 Min| 40 Min|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
