@@ -8,7 +8,7 @@ Giuliano Martullo
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
 |       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 8.9.22      | 1.0.0   |  Anfangs habe ich Fehler von letzter Woche ausgebessert, danach habe ich meine Planung abarbeitet                                                            |
 
 ## 1 Informieren
 
@@ -74,6 +74,9 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 | 2.A  |     1.9.22  |   martullo        |     45 Min          |    40 Min               |
 | 3.A| 1.9.22| Martullo| 90 Min | 45 Min|
 |4.A| 1.9.22| Martullo| 45 Min| 40 Min|
+|4.B|8.9.22|Martullo|45 Min| 20 Min|
+|5.A|8.9.22|Martullo|45 Min|30 Min|
+|6.A|8.9.22|Martullo|45 Min| 50 Min|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
