@@ -26,7 +26,7 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 | 4     |     Muss        | F     | Als Spieler möchte ich, nach einem Fehlversuch einen Hinweis erhalten ob die Zahl kleiner oder grösser ist, damit das Spiel schneller geht
 |5     |      Muss       |   F   | Als Spieler möchte ich, wenn ich die Zahl erraten habe angezeigt bekommen wie viele Versuche ich gebraucht habe, damit ich meine Versuche vergleichen kann
 |6     |      Muss       |   F   |Als Spieler möchte ich eine Fehlermeldung bekommen falls meine Zahl nicht den Vorgaben entspricht, damit das Spiel funktioniert|
-
+|7|Kann|F|Als Spieler möchte ich, wenn ich die Zahl erraten habe, die möglichkeit bekommen nochmal zu spielen, damit ich die Seite nicht neuladen muss|
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -58,6 +58,7 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 |5.A   | 8.9.22| Martullo  | Code schreiben, der nach richtigem erraten die Anzahl Versuche angibt          |        45 min|
 |6.A   | 15.9.22| Martullo | Code schreiben, der es nur ermöglicht Ziffern von 1-100 einzugeben             |        45 min|
 |6.B   | 15.9.22| Martullo | Code schreiben, der eine Fehlermeldung anzeigt bei falschen Eingaben           |        45 min|
+|7.A|15.9.22| MArtullo| COde schreiben, der einem ermöglich nochmal zu spielen|90 min|
 |Total: |11 Lektionen
 
 
