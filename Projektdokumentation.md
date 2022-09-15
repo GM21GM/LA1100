@@ -8,7 +8,8 @@ Giuliano Martullo
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
 |       | ...     |                                                              |
-| 8.9.22      | 1.0.0   |  Anfangs habe ich Fehler von letzter Woche ausgebessert, danach habe ich meine Planung abarbeitet                                                            |
+| 8.9.22      | 1.0.0   |  Anfangs habe ich Fehler von letzter Woche ausgebessert, danach habe ich meine Planung abarbeitet |
+|15.9.22|2.0.0| Ich habe mir zuerst alte Projekte und PPP angeschaut, da ich nicht wusste wie man macht, dass man das Spiel nochmal spielen kannn, nach meiner "Rechereche" habe ich Angefangen zu programmieren und habe einen für mich logischen Code erstellt. Dieser konnte allerdings nicht ausgeführt werden, den dazugehörigen Fehler habe ich nicht gefunden.|
 
 ## 1 Informieren
 
@@ -58,7 +59,7 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 |5.A   | 8.9.22| Martullo  | Code schreiben, der nach richtigem erraten die Anzahl Versuche angibt          |        45 min|
 |6.A   | 15.9.22| Martullo | Code schreiben, der es nur ermöglicht Ziffern von 1-100 einzugeben             |        45 min|
 |6.B   | 15.9.22| Martullo | Code schreiben, der eine Fehlermeldung anzeigt bei falschen Eingaben           |        45 min|
-|7.A|15.9.22| MArtullo| COde schreiben, der einem ermöglich nochmal zu spielen|90 min|
+|7.A|15.9.22| MArtullo| Code schreiben, der einem ermöglich nochmal zu spielen|90 min|
 |Total: |11 Lektionen
 
 
@@ -78,6 +79,7 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 |4.B|8.9.22|Martullo|45 Min| 20 Min|
 |5.A|8.9.22|Martullo|45 Min|30 Min|
 |6.A|8.9.22|Martullo|45 Min| 50 Min|
+|7.A|15.9.22|Martullo|90 Min| 150 Min|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
