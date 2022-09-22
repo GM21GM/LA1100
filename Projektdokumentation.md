@@ -7,7 +7,7 @@ Giuliano Martullo
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 8.9.22      | 1.0.0   |  Anfangs habe ich Fehler von letzter Woche ausgebessert, danach habe ich meine Planung abarbeitet |
-|15.9.22|2.0.0| Ich habe mir zuerst alte Projekte und PPP angeschaut, da ich nicht wusste wie man macht, dass man das Spiel nochmal spielen kannn, nach meiner "Rechereche" habe ich Angefangen zu programmieren und habe einen für mich logischen Code erstellt. Dieser konnte allerdings nicht ausgeführt werden, den dazugehörigen Fehler habe ich nicht gefunden.|
+|15.9.22|2.0.0| Ich habe mir zuerst alte Projekte und PPP angeschaut, da ich nicht wusste, wie man macht, dass man das Spiel nochmal spielen kann, nach meiner "Recherche" habe ich angefangen zu programmieren und habe einen für mich logischen Code erstellt. Dieser konnte allerdings nicht ausgeführt werden, den dazugehörigen Fehler habe ich nicht gefunden.|
 
 ## 1 Informieren
 
