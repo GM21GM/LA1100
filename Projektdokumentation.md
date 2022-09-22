@@ -87,12 +87,12 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |   22.09.22    |   funktioniert       |   Giuliano Martullo     |
-| 2.1  |  22.09.22     |   funktioniert       |   Giuliano Martullo     |
-|   3.1    |     22.09.22         |     funktioniert                 |       Giuliano Martullo                   |
-|    4.1   |       22.09.22       |     funktioniert                 |        Giuliano Martullo                  |
-|   5.1    |  22.09.22            |      funktioniert                |        Giuliano Martullo                  |
-|   6.1    |       22.09.22       |      funktioniert                |        Giuliano Martullo                  |
+| 1.1  |   22.09.22    |   OK      |   Giuliano Martullo     |
+| 2.1  |  22.09.22     |  OK      |   Giuliano Martullo     |
+|   3.1    |     22.09.22         |     OK                 |       Giuliano Martullo                   |
+|    4.1   |       22.09.22       |     OK                |        Giuliano Martullo                  |
+|   5.1    |  22.09.22            |   OK             |        Giuliano Martullo                  |
+|   6.1    |       22.09.22       |     OK              |        Giuliano Martullo                  |
 
 ### Fazit:
 Das Programm hat alle Testfälle einwandfrei bestanden und funktioniert.
