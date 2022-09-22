@@ -32,14 +32,14 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Zufallsgenerator erstellt haben            | Spiel Starten soll gedrückt werden        |   Zufallszahl 1-100                |
-|  2.1    | Code geschrieben haben             |  Zahl eingeben Enter drücken       |  Zahl wird aufgenommen und mit Geheimzahl verglichen                |
+| 1.1  |  Spiel gestartet            | Spiel Starten soll gedrückt werden        |   Zufallszahl 1-100                |
+|  2.1    | Zahl eingegeben             |  Zahl eingeben Enter drücken       |  Zahl wird aufgenommen und mit Geheimzahl verglichen                |
 |  3.1    |  Geheimzahl steht fest           |   Falsche Zahl erraten      |  Dein Versuch war korrekt/inkorrekt                 |
-|   4.1   | Code geschrieben haben             | Falsche Zahl eingegeben haben        |  Die Zahl ist kleiner/grösser                 |
+|   4.1   | Zahl eingegeben             | Falsche Zahl eingegeben haben        |  Die Zahl ist kleiner/grösser                 |
 |   5.1   |  Spiel beendet            | Korrekte Zahl eingegeben        |  Du hast X Versuche gebraucht                 |
-|   6.1   |   Definiert was die Regeln sind            |    Eingabe entspricht nicht den Regeln      |  Falsche Eingabe, Eingabe muss Ziffer von 1-100 entsprechen   |
+|   6.1   |   Eingabe von Ziffer grösser als 100           |    Eingabe entspricht nicht den Regeln      |  Falsche Eingabe, Eingabe muss Ziffer von 1-100 entsprechen   |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
@@ -89,10 +89,15 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |   22.09.22    |   funktioniert       |   Giuliano Martullo     |
+| 2.1  |  22.09.22     |   funktioniert       |   Giuliano Martullo     |
+|   3.1    |     22.09.22         |     funktioniert                 |       Giuliano Martullo                   |
+|    4.1   |       22.09.22       |     funktioniert                 |        Giuliano Martullo                  |
+|   5.1    |  22.09.22            |      funktioniert                |        Giuliano Martullo                  |
+|   6.1    |       22.09.22       |      funktioniert                |        Giuliano Martullo                  |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+### Fazit:
+Das Programm hat alle Testfälle einwandfrei bestanden und funktioniert.
 
 
 
