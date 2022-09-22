@@ -1,13 +1,11 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 
 Giuliano Martullo
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
 | 8.9.22      | 1.0.0   |  Anfangs habe ich Fehler von letzter Woche ausgebessert, danach habe ich meine Planung abarbeitet |
 |15.9.22|2.0.0| Ich habe mir zuerst alte Projekte und PPP angeschaut, da ich nicht wusste wie man macht, dass man das Spiel nochmal spielen kannn, nach meiner "Rechereche" habe ich Angefangen zu programmieren und habe einen für mich logischen Code erstellt. Dieser konnte allerdings nicht ausgeführt werden, den dazugehörigen Fehler habe ich nicht gefunden.|
 
@@ -22,7 +20,7 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |      Muss       | F     | Als Spieler möchte ich, dass eine Zufällige Zahl vom Computer generiert wird, damit ich diese daraufhin erraten kann          |
-| 2    |      Muss       |  F    | Spieler möchte ich, dass eine Zahl eingegeben werden kann damit damit ich das Spiel spielen kann                              |
+| 2    |      Muss       |  F    | Als Spieler möchte ich, dass eine Zahl eingegeben werden kann damit damit ich das Spiel spielen kann                              |
 | 3    |      Muss       |   F   |Als Spieler möchte ich nach meinem Versuch einen Hinweis erhalten ob ich richtig lag, damit ich weiss, dass ich gewonnen habe  |
 | 4     |     Muss        | F     | Als Spieler möchte ich, nach einem Fehlversuch einen Hinweis erhalten ob die Zahl kleiner oder grösser ist, damit das Spiel schneller geht
 |5     |      Muss       |   F   | Als Spieler möchte ich, wenn ich die Zahl erraten habe angezeigt bekommen wie viele Versuche ich gebraucht habe, damit ich meine Versuche vergleichen kann
@@ -59,14 +57,14 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 |5.A   | 8.9.22| Martullo  | Code schreiben, der nach richtigem erraten die Anzahl Versuche angibt          |        45 min|
 |6.A   | 15.9.22| Martullo | Code schreiben, der es nur ermöglicht Ziffern von 1-100 einzugeben             |        45 min|
 |6.B   | 15.9.22| Martullo | Code schreiben, der eine Fehlermeldung anzeigt bei falschen Eingaben           |        45 min|
-|7.A|15.9.22| MArtullo| Code schreiben, der einem ermöglich nochmal zu spielen|90 min|
+|7.A|15.9.22| Martullo| Code schreiben, der einem ermöglicht nochmal zu spielen|90 min|
 |Total: |11 Lektionen
 
 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
@@ -81,7 +79,7 @@ Ein Programm erstellen, welches eine Zahl von 1-100 generiert, man muss dann die
 |6.A|8.9.22|Martullo|45 Min| 50 Min|
 |7.A|15.9.22|Martullo|90 Min| 150 Min|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
