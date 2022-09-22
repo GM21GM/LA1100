@@ -101,4 +101,4 @@ Das Programm hat alle Testfälle einwandfrei bestanden und funktioniert.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/GM21GM/LA1100/blob/main/Lernbericht.md
